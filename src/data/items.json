@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 10.99,
+    "imgUrl": "https://www.latercera.com/resizer/LTN5QsS3yo6u_oNmub2HNEcv-f4=/900x600/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/3QOVU47ZLRATTJQREKLUL5BBRA.jpg"
+  },
+
+  {
+    "id": 2,
+    "name": "Computer",
+    "price": 1199,
+    "imgUrl": "https://images.unsplash.com/photo-1587831990711-23ca6441447b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZGVza3RvcCUyMGNvbXB1dGVyfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+  },
+
+  {
+    "id": 3,
+    "name": "Banana",
+    "price": 1.05,
+    "imgUrl": "https://aishlatino.com/wp-content/uploads/2022/07/bendicion-por-las-bananas-730x411-SP.jpg"
+  },
+
+  {
+    "id": 4,
+    "name": "Car",
+    "price": 6300,
+    "imgUrl": "https://i.insider.com/63bddf8a66c28600194376f4?width=1136&format=jpeg"
+  }
+]
